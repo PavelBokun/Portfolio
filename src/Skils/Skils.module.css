@@ -1,0 +1,23 @@
+.skilsBlock{
+height: 100vh;
+background-color: chocolate;
+}
+.aboutMe{
+    display: flex;
+    justify-content: space-around;
+}
+.meMore{
+    display: flex;
+    justify-content: center;
+}
+.name{
+    text-decoration: underline;
+    text-decoration-color: chartreuse;
+}
+.skill{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+    align-items: center;
+    
+}

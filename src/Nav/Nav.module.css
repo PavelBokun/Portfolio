@@ -1,0 +1,19 @@
+.itemsMenu {
+  display: flex;
+  text-decoration: none;
+}
+.itemsMenuAll {
+  display: flex;
+  /* justify-content: center; */
+  flex-direction: row;
+  gap: 20px;
+  border: 1px solid;
+  align-items: center;
+  font-size: 20px;
+  color: gray;
+}
+.itemsMenu:hover {
+  cursor: pointer;
+  text-decoration:underline;
+  font-weight: bold;
+}
