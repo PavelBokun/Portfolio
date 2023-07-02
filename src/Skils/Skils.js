@@ -7,7 +7,7 @@ export const Skils = () => {
       <h2 className={s.meMore}>Know Me More</h2>
       <div className={s.skill}>
         <div>
-          <h2>
+          <h2 className={s.styleH2}>
             Hi, I'm
             <span className={s.name}> Bokun Pavel</span>
           </h2>

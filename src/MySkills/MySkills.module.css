@@ -1,0 +1,8 @@
+.mySkills{
+   display: flex;
+   justify-content: center;
+}
+.skillsBlock{
+   display: flex;
+   justify-content: space-around;
+}
