@@ -11,7 +11,7 @@ export const Main = () => {
         <span>based in Minsk Belarus.</span>
       </div>
       <div className={s.foto}>
-        <img src="B.P.jpg" alt="foto" />
+        <img src="B.P.jpg" alt="foto" width="300px"height="400px" />
       </div>
     </div>
   );

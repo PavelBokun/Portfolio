@@ -1,8 +1,18 @@
-.mySkills{
-   display: flex;
-   justify-content: center;
+.mySkills {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
 }
-.skillsBlock{
-   display: flex;
-   justify-content: space-around;
+.skillsBlock {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.mySkillsAll {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  /* height: 270px; */
+  background-color: cornflowerblue;
+  /* flex-wrap: wrap; */
 }
